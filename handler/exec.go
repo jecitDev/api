@@ -10,6 +10,7 @@ import (
 
 	"fmt"
 
+	_ "github.com/denisenkom/go-mssqldb"
 	"github.com/go-redis/redis"
 )
 
